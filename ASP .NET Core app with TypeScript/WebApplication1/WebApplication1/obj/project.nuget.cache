@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y2Ep7TLPv0jDnlfbYfIpBZrnfkhLOhi4KSZ0eimMy6g9jShL3aAORmo/BvDaAA9+NgqHNDWEUPEeuI6+ONLT7w==",
+  "success": true,
+  "projectFilePath": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\ASP .NET Core app with TypeScript\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irawan\\.nuget\\packages\\microsoft.typescript.msbuild\\5.5.3\\microsoft.typescript.msbuild.5.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

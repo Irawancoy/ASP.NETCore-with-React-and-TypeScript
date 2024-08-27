@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "a/d5FQC7QaafeSE3TORDO1XACX21CNhA8xt4+SqsTTIHcJgMNcF8DH/hHCwfFUIpcknTqQiaY/8NSjuZ6VU4Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Bootcamp\\Padepokan79\\Readiness LG\\ASP.NET Core dengan React\\ReactApp1\\ReactApp1.Server\\ReactApp1.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irawan\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.8\\microsoft.aspnetcore.spaproxy.8.0.8.nupkg.sha512",
+    "C:\\Users\\irawan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\irawan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\irawan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\irawan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\irawan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\irawan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
